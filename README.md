@@ -9,7 +9,7 @@ I'm interested in low-level programming, systems, and computer networks.
 
 ## 🛠 Skills and Interests
 
-- **Languages**: C, Java (strong); Python, HTML/CSS/PHP/JS/SQL (academic level)
+- **Languages**: C, Java (strong); Python (beginner); HTML/CSS/PHP/JS/SQL (academic level)
 - **OS**: Linux (Fedora, Ubuntu), Windows
 - **Tools**: Git, GDB, JUnit, Wireshark (academic usage)
 - **Topics**: Operating systems, concurrency, network protocols, compilers, software architecture
