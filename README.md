@@ -55,8 +55,7 @@ Implements basic protocol mechanics and packet-level simulation logic (in early 
 - **Java email server/client**: Final assignment for Programming 3.  
   Multithreaded mail server with multiple clients over sockets. Handles basic commands and user session management.
 
-- **Bytecode translator**: A small interpreter/compiler that parses pseudo-code and generates Java bytecode compatible with `jasmine.jar`.  
-  (Yes, it's technically a compiler.)
+- **Bytecode translator**: A small interpreter/compiler that parses pseudo-code and generates Java bytecode compatible with jasmine.jar.
 
 - **Emergency B&B website**: Quick deployment using a paid Bootstrap theme, PHP scripts, and booking engine integration for a friend’s small business.  
   Nothing fancy, just working code under pressure.
@@ -67,9 +66,6 @@ Implements basic protocol mechanics and packet-level simulation logic (in early 
 
 - Used to mod Android phones, flash custom ROMs, and experiment with Linux distributions.
 - Built and maintained a couple of PCs from scratch.
-- Most comfortable working close to the system or solving low-level problems.
-- I like understanding *how* things work, not just *what* to write.
-
 ---
 
 ## 📫 Contact
