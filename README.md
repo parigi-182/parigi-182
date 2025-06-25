@@ -34,6 +34,20 @@ Key features:
 - Simulated delays and logging
 - Good modular structure and command-line configuration
 
+### 📧 [Email Service Java](https://github.com/parigi-182/](https://github.com/parigi-182/Email-Client-Java)
+
+JavaFX-based email client/server system developed as the final assignment for the *Programming 3* university course. It features:
+
+- 🖥️ A graphical user interface for both client and server  
+- 📁 Local storage of emails in JSON format  
+- ⚙️ Multi-threaded server with thread pool and file-level locks  
+- 🎲 Random user identity selection at startup (no login)  
+- 🔌 Sockets for communication  
+
+🛠️ Currently written in Italian — translation and refactoring in progress.  
+🔜 Planned features: event logging, file attachments, real account management.
+
+
 ### 🧠 [Lispy](https://github.com/parigi-182/Lispy)
 
 A small Lisp interpreter written in C using the `mpc.h` parser combinator library.  
