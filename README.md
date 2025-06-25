@@ -34,7 +34,7 @@ Key features:
 - Simulated delays and logging
 - Good modular structure and command-line configuration
 
-### 📧 [Email Service Java](https://github.com/parigi-182/](https://github.com/parigi-182/Email-Client-Java)
+### 📧 [Email Service Java](https://github.com/parigi-182/Email-Client-Java)
 
 JavaFX-based email client/server system developed as the final assignment for the *Programming 3* university course. It features:
 
