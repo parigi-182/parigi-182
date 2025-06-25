@@ -21,7 +21,7 @@ I'm interested in low-level programming, systems, and computer networks.
 ### 🔐 [Browser Hardening – Bachelor Thesis](https://github.com/parigi-182/My-Browser-Hardening-Bachelor-Thesis)
 
 A Python-based crawler that launches Firefox, Chrome and Edge in controlled environments.  
-It captures cookies, modifies them, and analyzes server responses to understand cookie validation mechanisms across browsers.  
+It captures cookies, modifies them, and analyzes server responses to understand cookie validation mechanisms across servers.  
 Focus areas: automation (Selenium), browser internals, session management, and security testing.
 
 ### 🚢 [Maritime Trade Simulation](https://github.com/parigi-182/Maritime-Trade-Simulation)
@@ -51,9 +51,6 @@ Implements basic protocol mechanics and packet-level simulation logic (in early 
 ---
 
 ## 💻 Other Projects (Not Public)
-
-- **Java email server/client**: Final assignment for Programming 3.  
-  Multithreaded mail server with multiple clients over sockets. Handles basic commands and user session management.
 
 - **Bytecode translator**: A small interpreter/compiler that parses pseudo-code and generates Java bytecode compatible with jasmine.jar.
 
