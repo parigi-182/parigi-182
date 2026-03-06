@@ -57,11 +57,6 @@ Supports:
 - Symbols and function dispatch
 A solid exercise in recursive parsing, memory management, and interpreter architecture.
 
-### 🌐 [Network Simulator](https://github.com/parigi-182/Network_Simulator_Java)
-
-A “just for fun” personal project inspired by the Computer Networks course.  
-Implements basic protocol mechanics and packet-level simulation logic (in early stages).
-
 ### 🍴 [CatERing – Final Project for Software Development](https://github.com/parigi-182/CatERing-sd-finals)
 
 Java application simulating a management system for a catering company.  
