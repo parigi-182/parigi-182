@@ -1,19 +1,20 @@
-## Hello there!
+# Hello there!
 
-# Enrico Parigi. Who am I?
+## Enrico Parigi. Who am I?
 Computer Science graduate, University of Turin, July 2024. Currently studying at Politecnico di Torino (Cybersecurity Engineering M.Sc.).
 
 My background is in systems programming, low-level software, and networks. I am comfortable working close to the hardware and enjoy understanding how things work at the OS and architecture level.
 Skills
 
-Languages: C (strong), Java (strong), Python, JavaScript(React), SQL, HTML/CSS
+Languages: C, Java, Python, JavaScript(React), SQL, HTML/CSS
 
 Topics: Operating systems, concurrency and synchronization, network protocols, compilers, software architecture, real-time scheduling, web security
 
 Tools: Git, GDB, Wireshark
 
 Platforms: Linux (Fedora, Ubuntu), Windows
-Projects
+
+## Public Projects
 
 [Browser Hardening — Bachelor Thesis](https://github.com/parigi-182/My-Browser-Hardening-Bachelor-Thesis)
 A Python crawler built with Selenium that tests how Chrome, Firefox and Edge enforce cookie security attributes (HttpOnly, Secure, SameSite). Results are stored in MySQL and analyzed across browsers.
