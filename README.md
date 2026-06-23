@@ -1,6 +1,6 @@
 # Hello there!
 
-## Enrico Parigi. Who am I?
+## Who am I?
 Computer Science graduate, University of Turin, July 2024. Currently studying at Politecnico di Torino (Cybersecurity Engineering M.Sc.).
 
 My background is in systems programming, low-level software, and networks. I am comfortable working close to the hardware and enjoy understanding how things work at the OS and architecture level.
