@@ -1,85 +1,34 @@
-## Hello there 👋
+## Hello there!
 
-# Enrico Parigi
+# Enrico Parigi. Who am I?
+Computer Science graduate, University of Turin, July 2024. Currently studying at Politecnico di Torino (Cybersecurity Engineering M.Sc.).
 
-Hi, I'm Enri. I graduated in Computer Science at the University of Turin in July 2024.  
-I'm interested in low-level programming, systems, and computer networks.
+My background is in systems programming, low-level software, and networks. I am comfortable working close to the hardware and enjoy understanding how things work at the OS and architecture level.
+Skills
 
----
+Languages: C (strong), Java (strong), Python, JavaScript(React), SQL, HTML/CSS
 
-## 🛠 Skills and Interests
+Topics: Operating systems, concurrency and synchronization, network protocols, compilers, software architecture, real-time scheduling, web security
 
-- **Languages**: C, Java (strong); Python (beginner); HTML/CSS/PHP/JS/SQL (academic level)
-- **OS**: Linux (Fedora, Ubuntu), Windows
-- **Tools**: Git, GDB, JUnit, Wireshark (academic usage)
-- **Topics**: Operating systems, concurrency, network protocols, compilers, software architecture
+Tools: Git, GDB, Wireshark
 
----
+Platforms: Linux (Fedora, Ubuntu), Windows
+Projects
 
-## 📂 Public Repositories
+[Browser Hardening — Bachelor Thesis](https://github.com/parigi-182/My-Browser-Hardening-Bachelor-Thesis)
+A Python crawler built with Selenium that tests how Chrome, Firefox and Edge enforce cookie security attributes (HttpOnly, Secure, SameSite). Results are stored in MySQL and analyzed across browsers.
 
-### 🔐 [Browser Hardening – Bachelor Thesis](https://github.com/parigi-182/My-Browser-Hardening-Bachelor-Thesis)
+[PTL — Periodic Task Layer for FreeRTOS](https://github.com/parigi-182/freeRTOS-caos-scheduler)
+A real-time scheduling extension for FreeRTOS running on QEMU Cortex-M3. Adds periodic tasks, deadline enforcement, configurable overrun policies (Skip, Kill, Catch-Up), and a polling server for aperiodic workloads. Built as part of the Computer Architecture and Operating Systems course.
 
-A Python-based crawler that launches Firefox, Chrome and Edge in controlled environments.  
-It captures cookies, modifies them, and analyzes server responses to understand cookie validation mechanisms across servers.  
-Focus areas: automation (Selenium), browser internals, session management, and security testing.
+[Paris Theatre — Web Application](https://github.com/parigi-182/theater-webapplication-exam)
+Full-stack seat reservation system with a React frontend and an Express/SQLite backend. Features role-based access control, TOTP two-factor authentication for admins, seat cooldown logic, and auto-assignment.
 
-### 🚢 [Maritime Trade Simulation](https://github.com/parigi-182/Maritime-Trade-Simulation)
+[Maritime Trade Simulation](https://github.com/parigi-182/Maritime-Trade-Simulation)
+Multiprocess C simulation of a seaport using Unix IPC — shared memory, semaphores and message queues. Ships navigate between ports, load and unload goods, and coordinate through a central master process.
 
-Final project for the Operating Systems course.  
-Simulates a seaport with multiple ships, docks, and loading operations using multithreading and resource sharing.  
-Key features:
-- Thread pools for job scheduling
-- Mutexes and condition variables for access control
-- Simulated delays and logging
-- Good modular structure and command-line configuration
+[Email Service Java](https://github.com/parigi-182/Email-Client-Java)
+JavaFX client-server email application. Multi-threaded server with a thread pool, file-level locking on JSON storage, and a GUI for both client and server.
 
-### 📧 [Email Service Java](https://github.com/parigi-182/Email-Client-Java)
-
-JavaFX-based email client/server system developed as the final assignment for the *Programming 3* university course. It features:
-
-- 🖥️ A graphical user interface for both client and server  
-- 📁 Local storage of emails in JSON format  
-- ⚙️ Multi-threaded server with thread pool and file-level locks  
-- 🎲 Random user identity selection at startup (no login)  
-- 🔌 Sockets for communication  
-
-🛠️ Currently written in Italian — translation and refactoring in progress.  
-🔜 Planned features: event logging, file attachments, real account management.
-
-
-### 🧠 [Lispy](https://github.com/parigi-182/Lispy)
-
-A small Lisp interpreter written in C using the `mpc.h` parser combinator library.  
-Supports:
-- S-expressions and Q-expressions
-- Arithmetic operations
-- Symbols and function dispatch
-A solid exercise in recursive parsing, memory management, and interpreter architecture.
-
-### 🍴 [CatERing – Final Project for Software Development](https://github.com/parigi-182/CatERing-sd-finals)
-
-Java application simulating a management system for a catering company.  
-Focus on implementing and testing menu-related use cases (menu creation, sections, dishes, etc.).  
-Uses a modular design with manager classes handling business logic.  
-Planned: refactor and integration of automated tests using JUnit.
-
-## 💻 Other Projects (Not Public)
-
-- **Bytecode translator**: A small interpreter/compiler that parses pseudo-code and generates Java bytecode compatible with jasmine.jar.
-
-- **Emergency B&B website**: Quick deployment using a paid Bootstrap theme, PHP scripts, and booking engine integration for a friend’s small business.  
-  Nothing fancy, just working code under pressure.
-
----
-
-## 🤓 Side Notes
-
-- Used to mod Android phones, flash custom ROMs, and experiment with Linux distributions.
-- Built and maintained a couple of PCs from scratch.
----
-
-## 📫 Contact
-
-**Email**: parigienrico@outlook.com
-**GitHub**: [github.com/parigi-182](https://github.com/parigi-182)
+[Lispy](https://github.com/parigi-182/Lispy)
+A small Lisp interpreter written in C using the mpc parser combinator library. Supports S-expressions, Q-expressions, arithmetic, lexical scoping, lambda functions and a standard library.
