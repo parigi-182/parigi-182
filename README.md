@@ -6,7 +6,7 @@ Computer Science graduate, University of Turin, July 2024. Currently studying at
 My background is in systems programming, low-level software, and networks. I am comfortable working close to the hardware and enjoy understanding how things work at the OS and architecture level.
 Skills
 
-Languages: C, Java, Python, JavaScript(React), SQL, HTML/CSS
+Languages: C, Java, Python, JavaScript(Node/React), SQL, HTML/CSS
 
 Topics: Operating systems, concurrency and synchronization, network protocols, compilers, software architecture, real-time scheduling, web security
 
